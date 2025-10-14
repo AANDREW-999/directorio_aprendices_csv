@@ -1,7 +1,10 @@
 [project]
 name = "directorio-aprendices-csv"
 version = "0.1.0"
-description = "Add your description here"
+description = "Proyecto de directorio de aprendices usando CSV y pandas"
+authors = [
+    { name = "Andres Gonzalez", email = "andresfelipegonzalez5a@gmail.com" }
+]
 readme = "README.md"
 requires-python = ">=3.13"
 dependencies = [
