@@ -48,6 +48,16 @@ print(leer_aprendices())
 
 ---
 
+## ▶️ Ejecución directa
+
+Puedes correr el script principal desde la terminal para interactuar con el directorio:
+
+```bash
+uv run python directorio_aprendices_csv.py
+```
+
+---
+
 ## 🧪 Pruebas
 
 Ejecuta las pruebas unitarias con:
